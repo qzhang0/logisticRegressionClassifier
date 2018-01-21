@@ -28,6 +28,7 @@ To run this project, import all the packages:
 
 #### Learning Rate at 0.005
 
+```
 Cost after iteration 0: 0.693147
 Cost after iteration 100: 0.584508
 Cost after iteration 200: 0.466949
@@ -50,11 +51,13 @@ Cost after iteration 1800: 0.146542
 Cost after iteration 1900: 0.140872
 train accuracy: 99.04306220095694 %
 test accuracy: 70.0 %
+```
 
 ![Result1](./images/lr005.png)
 
 #### Different Learning Rate Comparison
 
+```
 learning rate is: 0.01
 train accuracy: 99.52153110047847 %
 test accuracy: 68.0 %
@@ -72,6 +75,7 @@ train accuracy: 68.42105263157895 %
 test accuracy: 36.0 %
 
 -------------------------------------------------------
+```
 
 ![Result2](./images/lr3.png)
 
